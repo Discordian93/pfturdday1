@@ -1,0 +1,6 @@
+Credentials cache: API:24834A4D-4075-49B8-B573-C3177F7D0A72
+        Principal: eizaguir@42URDULIZ.COM
+
+  Issued                Expires             Flags    Principal
+Sep  6 15:23:16 2021  Sep  7 01:23:16 2021  FPRIA  krbtgt/42URDULIZ.COM@42URDULIZ.COM
+Sep  6 15:23:17 2021  Sep  7 01:23:16 2021  FPA    HTTP/student-storage.42urduliz.com@42URDULIZ.COM
